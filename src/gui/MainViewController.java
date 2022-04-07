@@ -44,6 +44,7 @@ public class MainViewController implements Initializable {
 		
 	}
 	
+	//Mudar de view
 	private synchronized void loadView(String absoluteName) {
 		try
 		{
